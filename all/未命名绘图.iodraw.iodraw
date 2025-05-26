@@ -25,6 +25,9 @@
         <mxCell id="ORPm5jwDtWTb3Zt4ly_K-1" value="统计字符频率并&lt;br&gt;打印字符数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ORPm5jwDtWTb3Zt4ly_K-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ORPm5jwDtWTb3Zt4ly_K-4" target="ORPm5jwDtWTb3Zt4ly_K-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ORPm5jwDtWTb3Zt4ly_K-4" value="生成哈夫曼编码表&lt;br&gt;并打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -35,7 +38,10 @@
           <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ORPm5jwDtWTb3Zt4ly_K-8" value="编码文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPm5jwDtWTb3Zt4ly_K-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
